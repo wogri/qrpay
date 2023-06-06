@@ -1,6 +1,6 @@
-module github.com/dundee/qrpay
+module github.com/wogri/qrpay
 
-go 1.16
+go 1.20
 
 require (
 	github.com/jbub/banking v0.6.0
