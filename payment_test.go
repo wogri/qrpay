@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/dundee/qrpay"
+	"github.com/wogri/qrpay"
 	"github.com/stretchr/testify/assert"
 )
 

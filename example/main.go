@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	payment "github.com/dundee/qrpay"
+	payment "github.com/wogri/qrpay"
 )
 
 func main() {

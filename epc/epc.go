@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/dundee/qrpay/base"
+	"github.com/wogri/qrpay/base"
 )
 
 const EpcHeader = `BCD

@@ -3,7 +3,7 @@ package base_test
 import (
 	"testing"
 
-	"github.com/dundee/qrpay/base"
+	"github.com/wogri/qrpay/base"
 	"github.com/stretchr/testify/assert"
 )
 
